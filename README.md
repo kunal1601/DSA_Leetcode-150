@@ -1,6 +1,6 @@
 # DSA_Leetcode-150
 
-This repository contains my solutions to various LeetCode problems, written in Python, C++. It serves as a personal record of my coding journey and a resource for others preparing for technical interviews or looking to improve their problem-solving skills.
+This repository contains solutions to various LeetCode problems, written in Python, C++. It serves as a personal record of my coding journey and a resource for others preparing for technical interviews or looking to improve their problem-solving skills.
 
 ✅ Regularly updated
 
